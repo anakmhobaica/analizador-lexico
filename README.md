@@ -1,6 +1,4 @@
-# analizador-lexico
-
-Instrucciones para la ejecución:
+# Instrucciones para la ejecución:
 
 Clonar el repositorio (en la consola de comandos, utilizando la instrucción "git clone" seguida del url del repositorio. Ejemplo: git clone https://github.com/anakmhobaica/analizador-lexico.git).
 
